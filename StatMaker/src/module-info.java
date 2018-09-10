@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author TNest
+ *
+ */
+module StatMaker {
+}
